@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "85d91a07549814aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "def754615b233960",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "329a4fd73cc2e29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "15aa0c861302e137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98e7bb3bb314c20a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c08289671be5059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eda890f807774930",
+    "type": "split",
+    "children": [
+      {
+        "id": "f922acfec20aa4d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a076bcc5b1ea18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "def754615b233960",
+  "lastOpenFiles": [
+    "index.md"
+  ]
+}
